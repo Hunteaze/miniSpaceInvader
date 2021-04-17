@@ -1,0 +1,14 @@
+{
+  "name": "spaceinvaderdupauvre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "sass": "sass --watch ./scss/main.scss:css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
